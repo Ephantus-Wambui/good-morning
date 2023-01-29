@@ -28,4 +28,3 @@ sleep $delay
 
 echo "You are currently logged in as $user, and you are in the directory $directory. Also 
 today is: $date, your ip adress is $ip, and lastly today's $weather"
-
